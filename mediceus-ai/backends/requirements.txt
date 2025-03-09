@@ -1,0 +1,5 @@
+elevenlabs
+reportlab
+flask_cors
+pyjwt
+pytz
