@@ -23,7 +23,6 @@ By eliminating the burden of manual documentation, MediceusAI enhances surgical 
 
 
 ### 🛠 How We Built It:
-- **Repository:** [MediceusAI GitHub](https://github.com/Krzychu-Z/mediceus-ai)
 - **ElevenLabs** - Conversational AI for real-time voice interaction.
 - **Vercel** - Web page template.
 - **Next.js** - Frontend framework for the user dashboard.
@@ -39,13 +38,6 @@ The project was inspired by a real-world problem faced by doctors all around Pol
 - **AI-Powered Data Insights** – Advanced analytics on surgical procedures for premium users.
 - **Hardware Partnerships** – Potential collaboration with AI-powered microphones & OR devices.
 - **Warehouse of narcotic drugs** – Integration with narcotic drug inventory management.
-
-
-### Our Team:
-- **[Aleksander Mazur](https://www.linkedin.com/in/aleksander-mazur/)** - SWE @ Google. Managing and interacting with ElevenLabs AI Agent.
-- **[Jakub Niećko](https://www.linkedin.com/in/jakub-nie%C4%87ko/)** - SWE @ Motorola Solutions. Responsible for the organization and development of both frontend, backend and database components.
-- **[Krzysztof Żerebecki](https://www.linkedin.com/in/krzysztof-%C5%BCerebecki-b32780226/)** - AWS Cloud Engineer @ Accenture. Responsible for the API communications, testing and debugging.
-- **[Marcin Retajczyk](https://www.linkedin.com/in/marcin-retajczyk/)** - Account Cloud Engineer @ Oracle Corporation. Focusing on development frontend and backend.
 
 
 ### Example local deployment
